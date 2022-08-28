@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>载梦行记</title>
+  
+  <subtitle>程序人生</subtitle>
+  <link href="https://zhangjian1713.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhangjian1713.github.io/"/>
+  <updated>2022-08-27T14:01:56.002Z</updated>
+  <id>https://zhangjian1713.github.io/</id>
+  
+  <author>
+    <name>Zhang Jian 张健</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的新 Blog</title>
+    <link href="https://zhangjian1713.github.io/2022/08/27/my-new-blog/"/>
+    <id>https://zhangjian1713.github.io/2022/08/27/my-new-blog/</id>
+    <published>2022-08-27T10:59:47.000Z</published>
+    <updated>2022-08-27T14:01:56.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天创建了这个新的 blog，准备以后在这里记录我的生活、技术研究。&lt;/p&gt;
+&lt;h3 id=&quot;搭建所用技术&quot;&gt;&lt;a href=&quot;#搭建所用技术&quot; class=&quot;headerlink&quot; title=&quot;搭建所用技术&quot;&gt;&lt;/a&gt;搭建所用技术&lt;/h3&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhangjian1713.github.io/2022/08/27/hello-world/"/>
+    <id>https://zhangjian1713.github.io/2022/08/27/hello-world/</id>
+    <published>2022-08-26T17:16:22.909Z</published>
+    <updated>2022-08-26T17:16:22.909Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
